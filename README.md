@@ -14,8 +14,9 @@ https://shrouded-wave-51845.herokuapp.com/
  config = {
 
 
- <Firebase Configurations>
-}
+ Firebase Configurations
+
+ }
  <br>
 data = os.path.abspath(os.path.dirname(__file__)) + "/credential.json"
  <br>
