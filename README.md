@@ -20,6 +20,8 @@ https://shrouded-wave-51845.herokuapp.com/
  <br>
 data = os.path.abspath(os.path.dirname(__file__)) + "/credential.json"
  <br>
- 4  => Run app.py
+ 4 => change app.config['SECRET_KEY'] = '*****' to any key 
  <br>
- 5  => Go to assign localhost
+ 5  => Run app.py
+ <br>
+ 6  => Go to assign localhost
