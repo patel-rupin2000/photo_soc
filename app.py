@@ -44,7 +44,7 @@ firebase_admin.initialize_app(cred)
 fb = firestore.client()
 
 basedir = os.path.abspath(os.path.dirname(__file__))
-app.config['SECRET_KEY'] = '545454'
+app.config['SECRET_KEY'] = '*****'
 
 ALLOWED_EXTENSIONS = {'txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif'}
 app.config['UPLOADED_PHOTOS_DEST'] = os.path.join(basedir, 'uploads') # you'll need to create a folder named uploads
