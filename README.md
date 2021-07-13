@@ -10,6 +10,12 @@ https://shrouded-wave-51845.herokuapp.com/
  2  => Install Packages Running requirements.txt 
  <br>
  3  => Change Firebase Credentials (API keys .....) and import your own credential.json file 
+ config = {
+
+
+ <Firebase Configurations>
+}
+data = os.path.abspath(os.path.dirname(__file__)) + "/credential.json"
  <br>
  4  => Run app.py
  <br>
