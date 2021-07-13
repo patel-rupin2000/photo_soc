@@ -25,3 +25,7 @@ data = os.path.abspath(os.path.dirname(__file__)) + "/credential.json"
  5  => Run app.py
  <br>
  6  => Go to assign localhost
+<h1>Constraints</h1>
+1 => only JPG file is allowed
+2 => Kindly upload relevant content
+3 =>It is more relevant to upload image which are captured from DSLR basically images which containts more EXIF information
