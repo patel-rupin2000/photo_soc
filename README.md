@@ -1,6 +1,9 @@
 # photo_soc
 Simple Social media app where you can see exif image metadata App specially for flexing photography
-<h1>For running</h1>
+<h2>Deployed :<h2>
+ <a>https://shrouded-wave-51845.herokuapp.com/</a>
+ 
+<h1>For local running and modification</h1>
 
  1  => Clone Repository
  <br>
