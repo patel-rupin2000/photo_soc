@@ -1,5 +1,5 @@
 # photo_soc
-Simple Social media app where you can see exif image metadata App specially for flexing photography
+Simple Social media app where you can see exif image metadata and search images according to image characteristics. App specially for flexing photography skills.
 <h2>Deployed :</h2>
 https://shrouded-wave-51845.herokuapp.com/
  
